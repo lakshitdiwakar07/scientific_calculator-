@@ -1,5 +1,5 @@
 import math
-# \n se ek line skip ho jati hai 
+
 
 print("\n\n")
 print("Scientific Calculator".center(50,'*'))
@@ -58,8 +58,7 @@ if __name__ == "__main__":
                     else:
                         print("Error: Division by zero is not defined.")
                         continue
-            print(f"The result is: {result}")
-            # printf use kiya taaki saare type ke input input ke liye ek hi output generate krna pade varna define krna padta har baar alag alag type ke liye 
+            print(f"The result is: {result}"  
         else:
             print("Invalid operation.")
 
