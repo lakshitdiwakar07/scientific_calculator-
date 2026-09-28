@@ -12,7 +12,7 @@ A simple interactive command line Scientific Calculator built using python's in-
 
 - Python 3.11 or higher
 
-##Technologies & Tools Used
+## Technologies & Tools Used
 
 -Language: Python 3
 
