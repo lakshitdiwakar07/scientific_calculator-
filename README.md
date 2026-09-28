@@ -12,6 +12,16 @@ A simple interactive command line Scientific Calculator built using python's in-
 
 - Python 3.11 or higher
 
+##Technologies & Tools Used
+
+-Language: Python 3
+
+-Built-in Modules: math
+
+-Code Editor: Visual Studio Code (VS Code)
+
+-Browser Helper: Brave Browser (for research and troubleshooting)
+
 ## How to Run
 
 1. Download or copy the `Vityarthi Project CSE1021.py` file to your computer.
